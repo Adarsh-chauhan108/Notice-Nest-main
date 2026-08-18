@@ -1,3 +1,5 @@
+// models/CGHS.js
+
 const mongoose = require("mongoose");
 
 const cghsSchema = new mongoose.Schema({
